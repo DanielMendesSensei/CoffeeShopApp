@@ -1,8 +1,20 @@
-# Welcome to your Expo app 👋
+<h1 align="center"> 🍵 Coffee Shop App</h1>
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## 👀Overview
 
-## Get started
+This was my first static app developed for iOS and Android with Reactive Native. In this project, I created a simple aplication for a coffee shop.
+
+## 📤Last Update
+
+Versão 0.0.1, -> build: Coffee Shop App.
+
+## 📸 Screenshots:
+
+![Screenshot](.github/public/images/Home.PNG)
+![Screenshot](.github/public/images/Menu.PNG)
+![Screenshot](.github/public/images/Contact.PNG)
+
+## ⚙️ Getting Started
 
 1. Install dependencies
 
@@ -23,28 +35,24 @@ In the output, you'll find options to open the app in a
 - [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## ⏩ Next steps
 
-## Get a fresh project
+- Make the application dynamic by consuming an API that provides new coffee options to the menu.
+- Deploy;
 
-When you're ready, run:
+## 📟 Contact
 
-```bash
-npm run reset-project
-```
+- For support, open an issue.
+- Discovery more about [me](https://senseidanielmendes.vercel.app/).
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 🚀 Technologies
 
-## Learn more
+This project was developed with the following technologies:
 
-To learn more about developing your project with Expo, look at the following resources:
+- React Native & Expo
+- Typescript
+- Git e Github
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## 📜 License
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- This project is under a [MIT](/LICENSE) license.
